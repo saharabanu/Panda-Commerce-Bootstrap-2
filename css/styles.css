@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner-name{
+    font-weight:500px;
+    font-size: 2.5rem;
+    color: #1F1F1F;
+    
+    
+
+}
+.price{
+    color: #FF136F;
+    font-weight:500;
+    font-size: 2.5rem;
+
+}
+.buy-now-button{
+    background-image:  linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border-radius: 8px;
+}
+.category-watch{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.category-bag{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+
+}
+.category-shoes{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+
+
+}
+.Subscribe-items{
+    background: #FFF2F1;
+}
+.features-info{
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
+.features-info h5{
+    font-weight: bold;
+    font-size: 24px;
+}
